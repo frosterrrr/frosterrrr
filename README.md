@@ -11,16 +11,6 @@
 
 ---
 
-### My Stats
-
-| Metric                        | Value     |
-|-------------------------------|-----------|
-| Total Stars Earned          | 34        |
-| Commits (last year)        | 95        |
-| Total Pull Requests        | 0         |
-| Total Issues               | 2         |
-| Contributed to (last year) | 1         |
-
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frosterrrr&layout=compact&theme=tokyonight&hide_border=true)
 
