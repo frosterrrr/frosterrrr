@@ -6,9 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=frosterrrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="frosterrrr's GitHub Stats" />
 </div>
 
-### GitHub Trophies
-![frosterrrr's Trophies](https://github-profile-trophy.vercel.app/?username=frosterrrr&theme=tokyonight&no-frame=true&margin-w=15)
-
 ---
 
 ### Most Used Languages
