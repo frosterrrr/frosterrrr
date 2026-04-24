@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>👋 Hi, I'm frosterrrr</h1>
+  <h1>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" alt="👋" /> 
+    Hi, I'm frosterrrr
+  </h1>
 </div>
 
 <div align="center">
