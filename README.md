@@ -12,16 +12,23 @@
 ---
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frosterrrr&layout=compact&theme=tokyonight&hide_border=true)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frosterrrr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
 ### Contribution Activity
-![frosterrrr's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=frosterrrr&theme=tokyonight&hide_border=true)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=frosterrrr&theme=tokyonight&hide_border=true" alt="frosterrrr's Contribution Graph" />
+</div>
 
 ---
 
 ### Social
+
 - **X / Twitter**: [@FrosterLeaks](https://x.com/FrosterLeaks)
 
 ---
