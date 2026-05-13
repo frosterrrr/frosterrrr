@@ -6,7 +6,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frosterrrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="frosterrrr's GitHub Stats" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frosterrrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/frosterrrr)
+
 </div>
 
 ---
@@ -14,7 +16,9 @@
 ### Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frosterrrr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frosterrrr&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/frosterrrr)
+
 </div>
 
 ---
@@ -22,7 +26,9 @@
 ### Contribution Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=frosterrrr&theme=tokyonight&hide_border=true" alt="frosterrrr's Contribution Graph" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=frosterrrr&theme=tokyonight&hide_border=true)](https://github.com/frosterrrr)
+
 </div>
 
 ---
