@@ -22,6 +22,8 @@
 
 ---
 
+![Froster](assets/screenshot.png)
+
 <div align="center">
   <i>Made by frosterrrr</i>
 </div>
