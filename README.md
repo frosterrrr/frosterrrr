@@ -18,7 +18,13 @@
 
 ### Social
 
-**X / Twitter**: [@FrosterLeaks](https://x.com/FrosterLeaks)
+**X / Twitter**: [FrosterLeaks](https://x.com/FrosterLeaks)
+
+**Discord Server**: [Froster's Community](https://discord.com/invite/dPChVvEsef)
+
+**Fortnite Tracking Site**: [Frostler](https://frostler.pages.dev)
+
+**Froster's Board**: [Froster's Board](https://frostersboard.pages.dev)
 
 ---
 
